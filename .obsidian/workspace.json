@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyBrain/CLAUDE.md",
+                "file": "MyBrain/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "README"
             }
           }
         ]
@@ -186,10 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4df4a787235959b2",
+  "active": "025cddc629af159b",
   "lastOpenFiles": [
-    "2026-08-06.md",
     "MyBrain/CLAUDE.md",
+    "2026-08-06.md",
     "2026-08-05.md",
     "README.md",
     "CLAUDE.md",
