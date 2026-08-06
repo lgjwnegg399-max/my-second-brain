@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-08-06.md",
+                "file": "MyBrain/CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-06"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -182,16 +182,19 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false
+      "bases:新規ベースを作成": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "025cddc629af159b",
+  "active": "4df4a787235959b2",
   "lastOpenFiles": [
-    "2026-08-05.md",
     "2026-08-06.md",
-    "ようこそ.md",
-    "MyBrain/README.md",
     "MyBrain/CLAUDE.md",
+    "2026-08-05.md",
+    "README.md",
+    "CLAUDE.md",
+    "MyBrain/README.md",
+    "ようこそ.md",
     "リンクを作成.md",
     "MyBrain/CLAUDE.md.md",
     "MyBrain/raw/youtube",
